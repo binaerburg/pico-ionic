@@ -1,4 +1,7 @@
 # @binaerburg/pico-ionic
+![version](https://badge.fury.io/js/%40binaerburg%2Fpico-ionic.svg)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
 Palette Pico Plugin Wrapper for Ionic 
 
 ## Installation
