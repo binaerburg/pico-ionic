@@ -1,6 +1,6 @@
 {
   "name": "@binaerburg/pico-ionic",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Palette Pico Plugin Wrapper for Ionic",
   "types": "index.d.ts",
   "module": "index.js",
