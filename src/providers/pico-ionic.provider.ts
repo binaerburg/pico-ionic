@@ -11,14 +11,13 @@ import PicoCalibrationResult from '../shared/enum/pico-calibration-result.enum';
 
 @Plugin(
     {
-        pluginName: "pico-plugin",
+        pluginName: "cordova-plugin-pico",
         plugin: "cordova-plugin-pico",
-        pluginRef: "PicoPlugin",
-        repo: "https://bitbucket.org/binaerburg/cordova-plugin-pico.git",
-        platforms: ["Android", "iOS"] // TODO: Final beide Platformen wieder einbinden!
+        pluginRef: "CordovaPicoPlugin",
+        repo: "https://github.com/binaerburg/cordova-plugin-pico",
+        platforms: ["Android", "iOS"]
     }
 )
-
 @Injectable()
 export class PicoProvider implements OnDestroy {
 
