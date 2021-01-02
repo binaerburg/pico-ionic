@@ -1,0 +1,34 @@
+{
+  "name": "@binaerburg/pico-ionic",
+  "version": "0.1.0",
+  "description": "Palette Pico Plugin Wrapper for Ionic",
+  "types": "index.d.ts",
+  "module": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binaerburg/pico-ionic.git"
+  },
+  "keywords": [
+    "ionic",
+    "plugin",
+    "pico",
+    "palette",
+    "typescript"
+  ],
+  "author": "Binaerburg GbR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binaerburg/pico-ionic/issues"
+  },
+  "homepage": "https://github.com/binaerburg/pico-ionic#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  },
+  "dependencies": {
+    "@angular/core": "^11.0.5",
+    "@ionic-native/broadcaster": "^5.30.0",
+    "@ionic-native/core": "^5.30.0",
+    "ionic-angular": "^3.9.10",
+    "rxjs": "^6.6.3"
+  }
+}
