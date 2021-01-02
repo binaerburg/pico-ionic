@@ -80,6 +80,6 @@ export class PicoProvider implements OnDestroy {
     }
 
     triggerInitializeSensor(): void {
-        this.cordovaPluginWrapper.triggerInititalize();
+        this.cordovaPluginWrapper.triggerInitialize();
     }
 }

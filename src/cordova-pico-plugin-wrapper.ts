@@ -5,7 +5,7 @@ export class CordovaPicoPluginWrapper {
      * trigger init
      */
     @Cordova()
-    triggerInititalize(): void {}
+    triggerInitialize(): void {}
 
     /**
      * destroy the pico instance
